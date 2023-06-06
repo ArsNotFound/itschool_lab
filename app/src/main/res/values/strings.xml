@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ITSchool Lab</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="click_me">Click me!</string>
+    <string name="type_something_here">Type something here</string>
+    <string name="clicked_times">You\'ve clicked %1$d times</string>
+    <string name="edit_value">Edit value</string>
+    <string name="click_more">Click more!</string>
+    <string name="return_text">Return</string>
+</resources>
